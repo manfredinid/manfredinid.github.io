@@ -6,9 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Click [here]( https://github.com/manfredinid/manfredinid.github.io/raw/master/files/Curriculum_Vitae.pdf) for my C.V.  :)
-
-[teste](https://nbviewer.jupyter.org/github/manfredinid/manfredinid.github.io/blob/master/files/Curriculum_Vitae.pdf)
+Click [here](https://nbviewer.jupyter.org/github/manfredinid/manfredinid.github.io/blob/master/files/Curriculum_Vitae.pdf) for my C.V.  :)
 
 <iframe src="https://nbviewer.jupyter.org/github/manfredinid/manfredinid.github.io/blob/master/files/Curriculum_Vitae.pdf" 
 style="width:600px; height:500px;" frameborder="0"></iframe>
