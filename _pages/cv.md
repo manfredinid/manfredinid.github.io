@@ -11,7 +11,7 @@ Click [here]( https://github.com/manfredinid/manfredinid.github.io/raw/master/fi
 [teste](https://nbviewer.jupyter.org/github/manfredinid/manfredinid.github.io/blob/master/files/Curriculum_Vitae.pdf)
 
 <iframe src="https://nbviewer.jupyter.org/github/manfredinid/manfredinid.github.io/blob/master/files/Curriculum_Vitae.pdf" 
-#style="width:600px; height:500px;" frameborder="0"></iframe>
+style="width:600px; height:500px;" frameborder="0"></iframe>
 
 
 
