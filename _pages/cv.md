@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-
+Teste 
 [Curriculum_Vitae.pdf]( https://docs.google.com/viewer?url=${https://github.com/manfredinid/manfredinid.github.io/raw/master/files/Curriculum_Vitae.pdf})
 
 
