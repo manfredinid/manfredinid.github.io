@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Denise Manfredini site"
+title                    : "Denise Manfredini"
 title_separator          : "-"
-name                     : &name "Ben Schmidt"
+name                     : &name "Denise Manfredini"
 description              : &description "Not my real web site: a demo for teaching"
 url                      : https://bmschmidt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -19,12 +19,12 @@ teaser                   :  # filename of teaser fallback teaser image placed in
 
 # Site Author
 author:
-  name             : "Horatio Hornblower"
+  name             : "Denise Manfredini"
   avatar           : "profile.png"
-  bio              : "A person who hasn't changed the right values in _config.yml yet"
-  location         : "Undisclosed"
+  bio              : "Ph.D. Candidates in Economics"
+  location         : "Brazil"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : 
   email            :
   uri              :
   bitbucket        :
@@ -33,19 +33,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "bmschmidt"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-0742-2834"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "denimanfredini"
   vine             :
   weibo            :
   xing             :
