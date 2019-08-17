@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-( https://github.com/manfredinid/manfredinid.github.io/raw/master/files/Curriculum_Vitae.pdf)
+[Curriculum_Vitae.pdf]( https://github.com/manfredinid/manfredinid.github.io/raw/master/files/Curriculum_Vitae.pdf)
 
 
 
