@@ -9,8 +9,10 @@ redirect_from:
 Click [here]( https://github.com/manfredinid/manfredinid.github.io/raw/master/files/Curriculum_Vitae.pdf) for my C.V.  :)
 
 
-<iframe src="https://github.com/manfredinid/manfredinid.github.io/raw/master/files/Curriculum_Vitae.pdf" 
-style="width:600px; height:500px;" frameborder="0"></iframe>
+<object src="https://github.com/manfredinid/manfredinid.github.io/raw/master/files/Curriculum_Vitae.pdf" width="100%" height="100%"></object>
+
+#<iframe src="https://github.com/manfredinid/manfredinid.github.io/raw/master/files/Curriculum_Vitae.pdf" 
+#style="width:600px; height:500px;" frameborder="0"></iframe>
 
 
 
