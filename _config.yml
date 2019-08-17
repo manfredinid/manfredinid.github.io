@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Denise Manfredini"
 title_separator          : "-"
 name                     : &name "Denise Manfredini"
-description              : &description "Not my real web site: a demo for teaching"
-url                      : https://bmschmidt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description ""
+url                      :  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "bmschmidt/bmschmidt.github.io"
+repository               : #"bmschmidt/bmschmidt.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 
 
