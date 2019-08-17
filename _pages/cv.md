@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-Click [here](Curriculum_Vitae.pdf) for my C.V.
+Click [here](manfredinid.github.io/files/Curriculum_Vitae.pdf) for my C.V.
 
