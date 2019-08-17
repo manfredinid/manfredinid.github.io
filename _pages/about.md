@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Me in a Nutshell"
+title: "Welcome to my Website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
