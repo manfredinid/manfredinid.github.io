@@ -8,15 +8,7 @@ redirect_from:
 ---
 Click [here]( https://github.com/manfredinid/manfredinid.github.io/raw/master/files/Curriculum_Vitae.pdf) for my C.V.  :)
 
-ll
-<html>
-<body>
-
-</body>
-<script type="text/javascript">
-    document.location = " https://github.com/manfredinid/manfredinid.github.io/raw/master/files/Curriculum_Vitae.pdf"
-</script>
-</html>
+[teste](https://nbviewer.jupyter.org/github/manfredinid/manfredinid.github.io/blob/master/files/Curriculum_Vitae.pdf)
 
 #<iframe src="https://github.com/manfredinid/manfredinid.github.io/raw/master/files/Curriculum_Vitae.pdf" 
 #style="width:600px; height:500px;" frameborder="0"></iframe>
