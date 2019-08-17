@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "This is the title of my about page! Change me!"
+title: "Denise Manfredini"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,7 +12,6 @@ redirect_from:
 Your job is to change this site. You might do that by doing the following:
 
 * altering the file at `_config.yml` to have your name in various places.
-* Altering the intro site at `_pages/about.md` to be about you, instead of all the text you're reading here. 
 * Starting a blog post in the `_posts/` folder.
 * Cleaning up the portfolio items pages, or deleting them
   and the link to portfolios at `_data/navigation.yml`
