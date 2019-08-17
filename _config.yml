@@ -20,7 +20,7 @@ teaser                   :  # filename of teaser fallback teaser image placed in
 # Site Author
 author:
   name             : "Denise Manfredini"
-  avatar           : "profile.png"
+  avatar           : "https://github.com/manfredinid/manfredinid.github.io/blob/master/images/20181224_204911.jpg"
   bio              : "Ph.D. Candidates in Economics"
   location         : "Brazil-New Zealand"
   employer         :
