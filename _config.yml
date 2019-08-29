@@ -19,6 +19,7 @@ teaser                   :  # filename of teaser fallback teaser image placed in
 
 
 # Site Author
+google_verify: google4ec19276fe36462d
 author:
   name             : "Denise Manfredini"
   avatar           : "teste.jpg"
