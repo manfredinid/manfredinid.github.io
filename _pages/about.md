@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-{% raw %}{% seo %}{% endraw %}
+
 
 I’m Denise, a MSc in Economic Development by [Universidade Federal do Paraná](http://www.prppg.ufpr.br/site/ppgde/) and Ph.D. candidate at [Universidade Federal de Santa Catarina](http://ppgeco.ufsc.br). 
 
