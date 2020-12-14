@@ -138,10 +138,9 @@ defaults:
       path: ""
       type: inprogress
     values:
-      layout: single
+      layout: talk
       author_profile: true
       share: true
-      comment: true
   # _portfolio
   - scope:
       path: ""
