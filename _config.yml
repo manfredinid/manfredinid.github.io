@@ -134,7 +134,7 @@ defaults:
       share: true
       comments: true
   #_inprogress
-        - scope:
+  - scope:
       path: ""
       type: inprogress
     values:
